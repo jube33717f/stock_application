@@ -1,0 +1,14 @@
+.form {
+  width: 60vw;
+  height: 70vh;
+  margin-left: 15vw;
+  padding-right: 10vw;
+  padding-top: 10%;
+  border: 1px solid grey;
+  margin-top: 10vh;
+}
+.form__h2 {
+  margin-top: -5vh;
+  text-align: center;
+  margin-left: 10vw;
+}
