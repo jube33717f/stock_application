@@ -1,5 +1,5 @@
 # STOCKS APPLICATION
-> Author: Jubi
+> Author: 
 > 
 > Last edit date: 2021.4.14
 
