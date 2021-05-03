@@ -37,4 +37,4 @@ get data by third party api(https://www.alphavantage.co/query?function=GLOBAL_QU
 
 
 
-linechart=>*chart.js*
+linechart=>**chart.js**
